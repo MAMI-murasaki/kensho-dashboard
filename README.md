@@ -18,7 +18,7 @@ GitHub Pages で公開され、毎晩 20:00 の自動応募のあとに `data.js
 ```json
 {
   "site_title": "懸賞応募ダッシュボード",
-  "updated_at": "2026-11-14",
+  "updated_at": "2026-11-14 21:00",
   "next_run": "毎日 20:00",
   "items": [
     {

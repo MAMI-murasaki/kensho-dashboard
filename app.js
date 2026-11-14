@@ -26,6 +26,13 @@
     return m[1] + '.' + m[2] + '.' + m[3];
   }
 
+  function fmtDateTime(d) {
+    var m = /^(\d{4})-(\d{2})-(\d{2})(?:[ T](\d{2}):(\d{2}))?/.exec(d || '');
+    if (!m) return d || '–';
+    var t = m[4] ? ' ' + m[4] + ':' + m[5] : '';
+    return m[1] + '.' + m[2] + '.' + m[3] + t;
+  }
+
   function fmtDateShort(d) {
     var m = /^(\d{4})-(\d{2})-(\d{2})(?:[ T](\d{2}):(\d{2}))?/.exec(d || '');
     if (!m) return d || '–';
@@ -146,7 +153,7 @@
       var label = fmtDateShort(i.deadline);
       if (d !== null) {
         if (d < 0) { cls = 'is-past'; label += '（締切済）'; }
-        else if (d <= 7) { cls = 'is-soon'; label += '（あと' + d + '日）'; }
+        else if (d <= 10) { cls = 'is-soon'; label += '（あと' + d + '日）'; }
       }
       meta.push('<div><dt>締切</dt><dd class="' + cls + '">' + esc(label) + '</dd></div>');
     }
@@ -249,8 +256,10 @@
       render();
       bind();
 
-      var upd = data.updated_at ? fmtDate(data.updated_at) : '–';
-      document.getElementById('t-updated').textContent = upd;
+      var upd = data.updated_at
+        ? (String(data.updated_at).length > 10 ? fmtDateTime(data.updated_at) : fmtDate(data.updated_at))
+        : '–';
+      document.getElementById('t-updated').textContent = fmtDateShort(data.updated_at);
       document.getElementById('f-updated').textContent = upd;
       document.getElementById('t-next').textContent = data.next_run || '毎日 20:00';
     })
