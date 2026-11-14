@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>懸賞応募ダッシュボード</title>
+<meta name="description" content="応募した懸賞の記録と当落をまとめた個人用ダッシュボード。毎晩20:00に自動更新されます。">
+<meta name="theme-color" content="#7a4bb8">
+<meta name="color-scheme" content="light">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon.svg">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="懸賞ダッシュ">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="hero">
+  <p class="eyebrow">Kensho Records</p>
+  <h1>懸賞応募<br class="sp">ダッシュボード</h1>
+  <p class="hero-sub">応募の記録と当落を、ひと目で。</p>
+  <p class="hero-update">毎晩 20:00 に自動更新</p>
+</header>
+
+<main class="wrap">
+
+  <section class="tiles" aria-label="サマリー">
+    <div class="tile">
+      <p class="tile-label">累計応募数</p>
+      <p class="tile-value"><span id="t-total">–</span><span class="unit">件</span></p>
+    </div>
+    <div class="tile">
+      <p class="tile-label">最新日の応募</p>
+      <p class="tile-value"><span id="t-latest">–</span><span class="unit">件</span></p>
+      <p class="tile-note" id="t-latest-date">&nbsp;</p>
+    </div>
+    <div class="tile">
+      <p class="tile-label">当落待ち</p>
+      <p class="tile-value"><span id="t-waiting">–</span><span class="unit">件</span></p>
+    </div>
+    <div class="tile">
+      <p class="tile-label">最終更新</p>
+      <p class="tile-value tile-value-sm" id="t-updated">–</p>
+      <p class="tile-note">次回 <span id="t-next">–</span></p>
+    </div>
+  </section>
+
+  <section class="soon" id="soon" hidden>
+    <p class="soon-title">締切が近い応募</p>
+    <ul class="soon-list" id="soon-list"></ul>
+  </section>
+
+  <nav class="filters" aria-label="カテゴリ">
+    <button class="chip is-active" data-cat="all" type="button">すべて<span class="chip-num" data-num="all"></span></button>
+    <button class="chip" data-cat="テーマパーク・鑑賞" type="button">テーマパーク・鑑賞<span class="chip-num" data-num="テーマパーク・鑑賞"></span></button>
+    <button class="chip" data-cat="家電・生活" type="button">家電・生活<span class="chip-num" data-num="家電・生活"></span></button>
+    <button class="chip" data-cat="食品・お酒" type="button">食品・お酒<span class="chip-num" data-num="食品・お酒"></span></button>
+    <button class="chip" data-cat="その他" type="button">その他<span class="chip-num" data-num="その他"></span></button>
+  </nav>
+
+  <div class="search">
+    <input id="q" type="search" placeholder="賞品名・主催で検索" autocomplete="off" aria-label="検索">
+  </div>
+
+  <p class="count" id="count"></p>
+
+  <div id="list" class="list"></div>
+
+  <p class="empty" id="empty" hidden>該当する応募が見つかりませんでした。</p>
+
+  <footer class="foot">
+    <p>最終更新 <span id="f-updated">–</span></p>
+    <p class="foot-note">個人情報（氏名・住所・電話・メール）は掲載していません。</p>
+  </footer>
+
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>
