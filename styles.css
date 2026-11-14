@@ -127,7 +127,7 @@ body{
   font-variant-numeric:tabular-nums;
   overflow-wrap:anywhere;
 }
-.tile-value-sm{font-size:15.5px;line-height:1.4;letter-spacing:.02em;}
+.tile .tile-value-sm{font-size:15.5px;line-height:1.4;letter-spacing:.02em;}
 .tile-value .unit{
   font-family:inherit;
   font-size:13px;
@@ -380,6 +380,7 @@ body{
 @media (max-width:400px){
   .hero h1{font-size:25px;}
   .tile-value{font-size:27px;}
+  .tile .tile-value-sm{font-size:15px;}
   .sp{display:inline;}
 }
 @media (prefers-reduced-motion:reduce){
