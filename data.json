@@ -1,6 +1,6 @@
 {
   "site_title": "懸賞応募ダッシュボード",
-  "updated_at": "2026-11-15 20:45",
+  "updated_at": "2026-11-15 21:00",
   "next_run": "毎日 20:00",
   "items": [
     {
@@ -390,6 +390,18 @@
       "result_note": "当選発表は賞品の発送をもって代え（当選連絡ありの企画を除く）",
       "status": "当落待ち",
       "url": "https://www.pilkul.jp/aginglife/campaign/"
+    },
+    {
+      "id": "2026-11-15-14",
+      "date": "2026-11-15",
+      "organizer": "第一三共ヘルスケア",
+      "prize": "クリーンデンタル トータルケア お試しサンプル10g（WEB＋イベント合計5万名）",
+      "category": "美容・日用品",
+      "deadline": "2026-12-07 17:00",
+      "result_date": null,
+      "result_note": "当選発表は賞品の発送をもって代え（2027年1月中旬頃発送予定）",
+      "status": "当落待ち",
+      "url": "https://www.cleandental-campaign2026.jp/otameshi/"
     }
   ]
 }
