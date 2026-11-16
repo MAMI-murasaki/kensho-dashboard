@@ -1,6 +1,6 @@
 {
   "site_title": "懸賞応募ダッシュボード",
-  "updated_at": "2026-11-16 21:35",
+  "updated_at": "2026-11-16 21:40",
   "next_run": "毎日 20:00",
   "items": [
     {
@@ -219,8 +219,8 @@
       "category": "テーマパーク・鑑賞",
       "deadline": null,
       "result_date": "2026-11-16 10:00",
-      "result_note": "本人応募（当落はLINE「マイチケット」で確認）",
-      "status": "当落待ち",
+      "result_note": "11/16 10:00 発表・本人確認済み（LINE抽選）。11/18 20:00からの二次先着の案内あり",
+      "status": "落選",
       "url": null
     },
     {
@@ -231,8 +231,8 @@
       "category": "テーマパーク・鑑賞",
       "deadline": null,
       "result_date": "2026-11-16 10:00",
-      "result_note": "本人応募（当落はLINE「マイチケット」で確認）",
-      "status": "当落待ち",
+      "result_note": "11/16 10:00 発表・本人確認済み（LINE抽選）。11/18 20:00からの二次先着の案内あり",
+      "status": "落選",
       "url": null
     },
     {
