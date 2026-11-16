@@ -1,6 +1,6 @@
 {
   "site_title": "懸賞応募ダッシュボード",
-  "updated_at": "2026-11-16 21:10",
+  "updated_at": "2026-11-16 21:35",
   "next_run": "毎日 20:00",
   "items": [
     {
@@ -438,6 +438,18 @@
       "result_note": "賞品の発送（2027年2月下旬以降予定）をもって当選発表に代え",
       "status": "当落待ち",
       "url": "https://clcpn.jp/s/tsumura-kusuriya_kcp/"
+    },
+    {
+      "id": "2026-11-16-04",
+      "date": "2026-11-16",
+      "organizer": "SCN（湘南ケーブルネットワーク）",
+      "prize": "劇団四季『アナと雪の女王』東京公演 S1席 ペア招待（3組6名／12/6 12:30・JR東日本四季劇場［春］）",
+      "category": "テーマパーク・鑑賞",
+      "deadline": "2026-11-20",
+      "result_date": "2026-11-30",
+      "result_note": "当選・落選ともにメールで連絡（11/30頃）",
+      "status": "当落待ち",
+      "url": "https://www.scn-net.jp/campaign/disneych-frozen/index.html"
     }
   ]
 }
