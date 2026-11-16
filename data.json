@@ -1,6 +1,6 @@
 {
   "site_title": "懸賞応募ダッシュボード",
-  "updated_at": "2026-11-15 21:00",
+  "updated_at": "2026-11-16 21:10",
   "next_run": "毎日 20:00",
   "items": [
     {
@@ -402,6 +402,42 @@
       "result_note": "当選発表は賞品の発送をもって代え（2027年1月中旬頃発送予定）",
       "status": "当落待ち",
       "url": "https://www.cleandental-campaign2026.jp/otameshi/"
+    },
+    {
+      "id": "2026-11-16-01",
+      "date": "2026-11-16",
+      "organizer": "ニチレイフーズ",
+      "prize": "冷凍食品詰め合わせ（Webアンケート・26問）",
+      "category": "食品・お酒",
+      "deadline": "2026-11-24 17:59",
+      "result_date": null,
+      "result_note": "当選者の発表は賞品の発送をもって代えさせていただきます",
+      "status": "当落待ち",
+      "url": "https://www.nichireifoods.co.jp/campaign/"
+    },
+    {
+      "id": "2026-11-16-02",
+      "date": "2026-11-16",
+      "organizer": "ギャガ／イオンシネマ（映画『人生を変えたコント』）",
+      "prize": "全国イオンシネマ特別試写会 招待（12/3 18:30・ペア／イオンシネマシアタス調布）",
+      "category": "テーマパーク・鑑賞",
+      "deadline": "2026-11-23 23:59",
+      "result_date": null,
+      "result_note": "当選者にのみメールで連絡（落選通知なし）",
+      "status": "当落待ち",
+      "url": "https://gaga.ne.jp/jinsei_conte/news/"
+    },
+    {
+      "id": "2026-11-16-03",
+      "date": "2026-11-16",
+      "organizer": "ツムラ×劇場版 薬屋のひとりごと 亡妃の秘宝",
+      "prize": "オリジナル「漢方START BOOK」（1,000名）",
+      "category": "テーマパーク・鑑賞",
+      "deadline": "2027-01-31 17:00",
+      "result_date": null,
+      "result_note": "賞品の発送（2027年2月下旬以降予定）をもって当選発表に代え",
+      "status": "当落待ち",
+      "url": "https://clcpn.jp/s/tsumura-kusuriya_kcp/"
     }
   ]
 }
