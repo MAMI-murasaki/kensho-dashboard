@@ -1,6 +1,6 @@
 {
   "site_title": "懸賞応募ダッシュボード",
-  "updated_at": "2026-11-17 20:40",
+  "updated_at": "2026-11-18 20:35",
   "next_run": "毎日 20:00",
   "items": [
     {
@@ -546,6 +546,114 @@
       "result_note": "当選者の発表は賞品の発送をもって代えさせていただきます",
       "status": "当落待ち",
       "url": "https://cp.kanmen.com/app-form-2612/"
+    },
+    {
+      "id": "2026-11-18-01",
+      "date": "2026-11-18",
+      "organizer": "CREA WEB（文藝春秋）",
+      "prize": "ボルゴーニョ「ノー・ネーム 2022」ワイン（2名）",
+      "category": "食品・お酒",
+      "deadline": "2026-11-29",
+      "result_date": null,
+      "result_note": "当選者の発表は発送をもって代えさせていただきます",
+      "status": "当落待ち",
+      "url": "https://crea.bunshun.jp/articles/-/60579"
+    },
+    {
+      "id": "2026-11-18-02",
+      "date": "2026-11-18",
+      "organizer": "アイ・オー・データ",
+      "prize": "2027年卓上カレンダー（2,027名）",
+      "category": "生活雑貨",
+      "deadline": "2026-11-30",
+      "result_date": null,
+      "result_note": "当選者の発表は賞品の発送をもって代えさせていただきます（12月下旬発送予定）",
+      "status": "当落待ち",
+      "url": "https://www.iodata.jp/ilovedesk/event/calendar/2027.htm"
+    },
+    {
+      "id": "2026-11-18-03",
+      "date": "2026-11-18",
+      "organizer": "大和ハウスグループ",
+      "prize": "2027年版カレンダー B3版「Nature with Hearts」（各100名・計300名）",
+      "category": "生活雑貨",
+      "deadline": "2026-11-30",
+      "result_date": null,
+      "result_note": "当選者の発表は賞品の発送をもって代えさせていただきます（12月下旬発送予定）",
+      "status": "当落待ち",
+      "url": "https://www.daiwahouse.co.jp/ad/sponsor/calendar/"
+    },
+    {
+      "id": "2026-11-18-04",
+      "date": "2026-11-18",
+      "organizer": "井本商運",
+      "prize": "2027年カレンダー（谷川夏樹さんコラボ・A2判／100名）",
+      "category": "生活雑貨",
+      "deadline": "2026-11-23",
+      "result_date": null,
+      "result_note": "当選は商品の発送をもって発表",
+      "status": "当落待ち",
+      "url": "https://www.imotoline.co.jp/news/202611131117700/"
+    },
+    {
+      "id": "2026-11-18-05",
+      "date": "2026-11-18",
+      "organizer": "住友林業",
+      "prize": "2027年オリジナルカレンダー「住友林業の森」（400名）",
+      "category": "生活雑貨",
+      "deadline": "2026-11-21",
+      "result_date": null,
+      "result_note": "抽選の上、発送をもって発表（11/21必着）",
+      "status": "当落待ち",
+      "url": "https://sfc.jp/information/news/2026/2026-11-09.html"
+    },
+    {
+      "id": "2026-11-18-06",
+      "date": "2026-11-18",
+      "organizer": "鶏卵公正取引協議会（日本養鶏協会）",
+      "prize": "たまご券700円分（各回150名）",
+      "category": "食品・お酒",
+      "deadline": "2026-11-30",
+      "result_date": null,
+      "result_note": "当選者の発表は賞品の発送をもって代えさせていただきます",
+      "status": "当落待ち",
+      "url": "https://jpa-keiran-campaig.jp/"
+    },
+    {
+      "id": "2026-11-18-07",
+      "date": "2026-11-18",
+      "organizer": "九都県市（首都圏9自治体）",
+      "prize": "生ごみ処理機「ボカシコンポスト」（5名）／Wチャンス 山崎製パンお菓子詰め合わせほか（120名）",
+      "category": "家電・生活",
+      "deadline": "2026-12-14",
+      "result_date": null,
+      "result_note": "抽選の上、賞品の発送をもって発表",
+      "status": "当落待ち",
+      "url": "https://www.resource-saving.jp/challenge-2026campaign/"
+    },
+    {
+      "id": "2026-11-18-08",
+      "date": "2026-11-18",
+      "organizer": "JAあいち経済連",
+      "prize": "あいち米「あいちのこころ」5kg（50名）",
+      "category": "食品・お酒",
+      "deadline": "2026-12-31",
+      "result_date": null,
+      "result_note": "抽選の上、賞品の発送をもって発表",
+      "status": "当落待ち",
+      "url": "https://business.form-mailer.jp/lp/5b680486361783"
+    },
+    {
+      "id": "2026-11-18-09",
+      "date": "2026-11-18",
+      "organizer": "首都高速道路",
+      "prize": "コールマン ヒーリングチェアNX HB（2名）／JBL Go 4（3名）／首都高オリジナルタンブラー（20名）",
+      "category": "家電・生活",
+      "deadline": "2026-11-30",
+      "result_date": null,
+      "result_note": "当選者の発表は賞品の発送をもって代えさせていただきます",
+      "status": "当落待ち",
+      "url": "https://www.shutoko.jp/ss/shutokodeikou/special/rurubu/r14/present/"
     }
   ]
 }
