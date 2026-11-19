@@ -1,6 +1,6 @@
 {
   "site_title": "懸賞応募ダッシュボード",
-  "updated_at": "2026-11-18 20:35",
+  "updated_at": "2026-11-19 21:05",
   "next_run": "毎日 20:00",
   "items": [
     {
@@ -654,6 +654,138 @@
       "result_note": "当選者の発表は賞品の発送をもって代えさせていただきます",
       "status": "当落待ち",
       "url": "https://www.shutoko.jp/ss/shutokodeikou/special/rurubu/r14/present/"
+    },
+    {
+      "id": "2026-11-19-01",
+      "date": "2026-11-19",
+      "organizer": "クラレ",
+      "prize": "2027年版クラレグループカレンダー「Beautiful World - 一瞬の煌めき、その先へ -」（500名）",
+      "category": "生活雑貨",
+      "deadline": "2026-11-30",
+      "result_date": null,
+      "result_note": "抽選の上、賞品の発送をもって発表",
+      "status": "当落待ち",
+      "url": "https://www.kuraray.com/jp-ja/calendar/calendar_presentcampaign/"
+    },
+    {
+      "id": "2026-11-19-02",
+      "date": "2026-11-19",
+      "organizer": "霧島酒造",
+      "prize": "2027年霧島酒造オリジナルカレンダー（1,000名）",
+      "category": "生活雑貨",
+      "deadline": "2026-11-20",
+      "result_date": null,
+      "result_note": "抽選の上、賞品の発送をもって発表",
+      "status": "当落待ち",
+      "url": "https://www.kirishima.co.jp/news/2026101901.html"
+    },
+    {
+      "id": "2026-11-19-03",
+      "date": "2026-11-19",
+      "organizer": "サンガリア",
+      "prize": "「とろけるおいしさ チョコ＆ミルク」1ケース（10名）",
+      "category": "食品・お酒",
+      "deadline": "2026-11-30",
+      "result_date": null,
+      "result_note": "抽選の上、賞品の発送をもって発表",
+      "status": "当落待ち",
+      "url": "https://www.sangaria.co.jp/present/"
+    },
+    {
+      "id": "2026-11-19-04",
+      "date": "2026-11-19",
+      "organizer": "デルタインターナショナル",
+      "prize": "一週間分のロカボナッツ10周年 ナッツアソート（100名）",
+      "category": "食品・お酒",
+      "deadline": "2026-11-30",
+      "result_date": null,
+      "result_note": "抽選の上、賞品の発送をもって発表",
+      "status": "当落待ち",
+      "url": "https://www.delta-i.co.jp/special-locabo/"
+    },
+    {
+      "id": "2026-11-19-05",
+      "date": "2026-11-19",
+      "organizer": "TBSテレビ「世界遺産」",
+      "prize": "2027年 キヤノン 世界遺産カレンダー（1,000名）",
+      "category": "生活雑貨",
+      "deadline": "2026-12-06",
+      "result_date": null,
+      "result_note": "抽選の上、賞品の発送をもって発表",
+      "status": "当落待ち",
+      "url": "https://www.tbs.co.jp/heritage/info/20261108.html"
+    },
+    {
+      "id": "2026-11-19-06",
+      "date": "2026-11-19",
+      "organizer": "ダイキン工業",
+      "prize": "2027年版 ダイキンAIRカレンダー（1,000名）＋応募者全員に壁紙",
+      "category": "生活雑貨",
+      "deadline": "2026-11-30",
+      "result_date": null,
+      "result_note": "抽選の上、賞品の発送をもって発表",
+      "status": "当落待ち",
+      "url": "https://www.daikin.co.jp/otenki/"
+    },
+    {
+      "id": "2026-11-19-07",
+      "date": "2026-11-19",
+      "organizer": "TOYO TIRES",
+      "prize": "2027年 TOYO TIRES企業カレンダー 壁掛け（1,500名）",
+      "category": "生活雑貨",
+      "deadline": "2026-11-30",
+      "result_date": null,
+      "result_note": "抽選の上、賞品の発送をもって発表",
+      "status": "当落待ち",
+      "url": "https://www.toyotires.co.jp/special/calendar/"
+    },
+    {
+      "id": "2026-11-19-08",
+      "date": "2026-11-19",
+      "organizer": "おいしい山形推進機構",
+      "prize": "総称山形牛ロースすき焼き用 400g（5名）",
+      "category": "食品・お酒",
+      "deadline": "2026-11-30",
+      "result_date": null,
+      "result_note": "抽選の上、賞品の発送をもって発表",
+      "status": "当落待ち",
+      "url": "https://www.nmai.org/present.html"
+    },
+    {
+      "id": "2026-11-19-09",
+      "date": "2026-11-19",
+      "organizer": "JAしまね",
+      "prize": "スイートパーシモン（西条柿・干し柿）5名",
+      "category": "食品・お酒",
+      "deadline": "2026-11-25",
+      "result_date": null,
+      "result_note": "抽選の上、賞品の発送をもって発表",
+      "status": "当落待ち",
+      "url": "https://ja-shimane.jp/archives/6873/"
+    },
+    {
+      "id": "2026-11-19-10",
+      "date": "2026-11-19",
+      "organizer": "アクションチャンネル（AXN）",
+      "prize": "トリニティーライン Hazumie エッセンスジェルT 60g 3本セット（387名）",
+      "category": "美容・日用品",
+      "deadline": "2026-12-09",
+      "result_date": null,
+      "result_note": "抽選の上、賞品の発送をもって発表",
+      "status": "当落待ち",
+      "url": "https://form.run/@3ch-202610-hazumie"
+    },
+    {
+      "id": "2026-11-19-11",
+      "date": "2026-11-19",
+      "organizer": "JA全農 情報誌Apron",
+      "prize": "スーパー ラ・フランス 3kg（15名）",
+      "category": "食品・お酒",
+      "deadline": "2026-11-20",
+      "result_date": null,
+      "result_note": "抽選の上、賞品の発送をもって発表",
+      "status": "当落待ち",
+      "url": "https://apron-web.jp/entry/present/27061/"
     }
   ]
 }
