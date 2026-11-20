@@ -338,11 +338,21 @@ body{
 }
 .up-more{
   margin:0 0 9px;
-  font-size:10px;
-  color:var(--ink-mute);
   text-align:right;
-  letter-spacing:.02em;
 }
+.up-more-btn{
+  appearance:none;
+  border:0;
+  background:transparent;
+  padding:4px 2px;
+  font-family:inherit;
+  font-size:10.5px;
+  letter-spacing:.02em;
+  color:var(--purple);
+  border-bottom:1px solid rgba(122,75,184,.25);
+  cursor:pointer;
+}
+.up-more-btn:active{opacity:.7;}
 
 /* ---------- 並び替え ---------- */
 

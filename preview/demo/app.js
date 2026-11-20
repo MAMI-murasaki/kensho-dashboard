@@ -138,7 +138,7 @@
     }
 
     var shipLabel = String(i.ship_label || '').trim();
-    if (shipLabel || i.ship_date) {
+    if ((shipLabel || i.ship_date) && !isShipped(i.status)) {
       var sd = i.ship_date ? parseLocal(i.ship_date) : parseShipDate(shipLabel);
       var sdays = daysFromToday(sd);
       out.push({
@@ -338,9 +338,16 @@
 
     if (all.length > MAX) {
       more.hidden = false;
-      more.textContent = 'ほか ' + (all.length - MAX) + ' 件は下のリストで（結果・お届けが近い順）';
+      more.innerHTML = '<button type="button" class="up-more-btn">ほか ' + (all.length - MAX) +
+        ' 件も「近い順」で見る →</button>';
+      more.querySelector('.up-more-btn').addEventListener('click', function () {
+        setSort('near');
+        var list = document.getElementById('list');
+        if (list && list.scrollIntoView) list.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      });
     } else {
       more.hidden = true;
+      more.innerHTML = '';
     }
   }
 
