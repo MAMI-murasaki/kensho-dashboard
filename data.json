@@ -1,6 +1,6 @@
 {
   "site_title": "懸賞応募ダッシュボード",
-  "updated_at": "2026-11-19 21:15",
+  "updated_at": "2026-11-20 18:26",
   "next_run": "毎日 20:00",
   "items": [
     {
@@ -798,6 +798,19 @@
       "result_note": "抽選の上、賞品の発送をもって発表",
       "status": "当落待ち",
       "url": "https://www.kdh.or.jp/safe/es.html"
+    },
+    {
+      "id": "2026-11-20-01",
+      "date": "2026-11-20",
+      "organizer": "ちいかわマーケット公式（グレイ・パーカー・サービス）",
+      "prize": "ちいかわクリニック ノベルティ全17種セット",
+      "slots": "5名",
+      "category": "テーマパーク・鑑賞",
+      "deadline": "2026-11-27 23:59",
+      "result_date": "2026-12-01",
+      "result_note": "本人がXでフォロー＆リポストして応募済み。当選者にのみXのDMで連絡（落選通知なし）",
+      "status": "当落待ち",
+      "url": "https://x.com/chiikawa_market/status/2122978612844613959"
     }
   ]
 }
