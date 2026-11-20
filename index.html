@@ -12,14 +12,14 @@
 <link rel="apple-touch-icon" href="icon.svg">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="懸賞ダッシュ">
-<link rel="stylesheet" href="styles.css?v=20261114b">
+<link rel="stylesheet" href="styles.css?v=20261120c">
 </head>
 <body>
 
 <header class="hero">
   <p class="eyebrow">Kensho Records</p>
   <h1>懸賞応募<br class="sp">ダッシュボード</h1>
-  <p class="hero-sub">応募の記録と当落を、ひと目で。</p>
+  <p class="hero-sub">応募の記録と、たのしみな日を。</p>
   <p class="hero-update">毎晩 20:00 に自動更新</p>
 </header>
 
@@ -38,6 +38,7 @@
     <div class="tile">
       <p class="tile-label">当落待ち</p>
       <p class="tile-value"><span id="t-waiting">–</span><span class="unit">件</span></p>
+      <p class="tile-note" id="t-next-result">&nbsp;</p>
     </div>
     <div class="tile">
       <p class="tile-label">最終更新</p>
@@ -46,18 +47,25 @@
     </div>
   </section>
 
-  <section class="soon" id="soon" hidden>
-    <p class="soon-title">締切が近い応募</p>
-    <ul class="soon-list" id="soon-list"></ul>
+  <section class="celebrate" id="celebrate" hidden aria-live="polite"></section>
+
+  <section class="upcoming" id="upcoming" hidden>
+    <div class="upcoming-head">
+      <p class="upcoming-title">もうすぐ結果・お届け予定</p>
+      <p class="upcoming-note">近い順</p>
+    </div>
+    <ul class="upcoming-list" id="upcoming-list"></ul>
+    <p class="up-more" id="up-more" hidden></p>
   </section>
 
-  <nav class="filters" aria-label="カテゴリ">
+  <nav class="filters" id="filters" aria-label="カテゴリ">
     <button class="chip is-active" data-cat="all" type="button">すべて<span class="chip-num" data-num="all"></span></button>
-    <button class="chip" data-cat="テーマパーク・鑑賞" type="button">テーマパーク・鑑賞<span class="chip-num" data-num="テーマパーク・鑑賞"></span></button>
-    <button class="chip" data-cat="家電・生活" type="button">家電・生活<span class="chip-num" data-num="家電・生活"></span></button>
-    <button class="chip" data-cat="食品・お酒" type="button">食品・お酒<span class="chip-num" data-num="食品・お酒"></span></button>
-    <button class="chip" data-cat="その他" type="button">その他<span class="chip-num" data-num="その他"></span></button>
   </nav>
+
+  <div class="sortbar" role="group" aria-label="並び順">
+    <button class="sortbtn is-active" data-sort="new" type="button" aria-pressed="true"><span class="sb-ico" aria-hidden="true">🆕</span>応募が新しい順</button>
+    <button class="sortbtn" data-sort="near" type="button" aria-pressed="false"><span class="sb-ico" aria-hidden="true">🎯</span>結果・お届けが近い順</button>
+  </div>
 
   <div class="search">
     <input id="q" type="search" placeholder="賞品名・主催で検索" autocomplete="off" aria-label="検索">
@@ -77,6 +85,6 @@
 
 </main>
 
-<script src="app.js?v=20261114"></script>
+<script src="app.js?v=20261120c"></script>
 </body>
 </html>

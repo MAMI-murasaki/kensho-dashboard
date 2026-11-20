@@ -338,13 +338,17 @@
 
     if (all.length > MAX) {
       more.hidden = false;
-      more.innerHTML = '<button type="button" class="up-more-btn">ほか ' + (all.length - MAX) +
-        ' 件も「近い順」で見る →</button>';
-      more.querySelector('.up-more-btn').addEventListener('click', function () {
-        setSort('near');
-        var list = document.getElementById('list');
-        if (list && list.scrollIntoView) list.scrollIntoView({ behavior: 'smooth', block: 'start' });
-      });
+      if (state.sort === 'near') {
+        more.textContent = 'ほか ' + (all.length - MAX) + ' 件は下のリストに続きます';
+      } else {
+        more.innerHTML = '<button type="button" class="up-more-btn">ほか ' + (all.length - MAX) +
+          ' 件も「近い順」で見る →</button>';
+        more.querySelector('.up-more-btn').addEventListener('click', function () {
+          setSort('near');
+          var list = document.getElementById('list');
+          if (list && list.scrollIntoView) list.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        });
+      }
     } else {
       more.hidden = true;
       more.innerHTML = '';
@@ -525,6 +529,7 @@
     });
     try { localStorage.setItem('kensho-sort', mode); } catch (e) { /* 保存できなくても動く */ }
     render();
+    renderUpcoming();
   }
 
   function bind() {
