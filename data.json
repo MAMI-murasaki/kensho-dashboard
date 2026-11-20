@@ -1,6 +1,6 @@
 {
   "site_title": "懸賞応募ダッシュボード",
-  "updated_at": "2026-11-20 18:26",
+  "updated_at": "2026-11-20 20:45",
   "next_run": "毎日 20:00",
   "items": [
     {
@@ -811,6 +811,96 @@
       "result_note": "本人がXでフォロー＆リポストして応募済み。当選者にのみXのDMで連絡（落選通知なし）",
       "status": "当落待ち",
       "url": "https://x.com/chiikawa_market/status/2122978612844613959"
+    },
+    {
+      "id": "2026-11-20-02",
+      "date": "2026-11-20",
+      "organizer": "キユーピー",
+      "prize": "スペシャル ニューイヤー・コンサート2027 ペアチケット（東京公演 1/2 サントリーホール）",
+      "slots": "50組100名",
+      "category": "テーマパーク・鑑賞",
+      "deadline": "2026-11-24 12:00",
+      "result_date": null,
+      "result_note": "賞品の発送（2026年12月上旬予定）をもって発表",
+      "status": "当落待ち",
+      "url": "https://www.kewpie.co.jp/cp/202611-newyear-concert/"
+    },
+    {
+      "id": "2026-11-20-03",
+      "date": "2026-11-20",
+      "organizer": "CREA WEB（文藝春秋）",
+      "prize": "WELEDA ハンドクリームギフト TAKE ME（2,200円相当）",
+      "slots": "3名",
+      "category": "美容・日用品",
+      "deadline": "2026-12-20 23:59",
+      "result_date": null,
+      "result_note": "賞品の発送をもって発表",
+      "status": "当落待ち",
+      "url": "https://crea.bunshun.jp/articles/-/60813"
+    },
+    {
+      "id": "2026-11-20-04",
+      "date": "2026-11-20",
+      "organizer": "マリンフード",
+      "prize": "発酵バター仕立てのバウムクーヘン 1箱",
+      "slots": "300名",
+      "category": "食品・お酒",
+      "deadline": "2026-11-24",
+      "result_date": "2026-12-01",
+      "result_note": "12月1日に抽選・当選者のみ発送（都道府県とイニシャルをHP掲載）",
+      "status": "当落待ち",
+      "url": "https://www.marinfood.co.jp/present/"
+    },
+    {
+      "id": "2026-11-20-05",
+      "date": "2026-11-20",
+      "organizer": "全薬工業「アルージェ」",
+      "prize": "肌トラブルケア サンプルセット（先行美容液・美容液・クリーム）",
+      "slots": "5,000名",
+      "category": "美容・日用品",
+      "deadline": "2026-11-30 23:59",
+      "result_date": null,
+      "result_note": "賞品の発送をもって発表",
+      "status": "当落待ち",
+      "url": "https://www.arouge.com/sdocs/campaign/input/22"
+    },
+    {
+      "id": "2026-11-20-06",
+      "date": "2026-11-20",
+      "organizer": "佐藤製薬「アセス」",
+      "prize": "サトちゃん歯みがきタイマー（100名）／薬用アセス試供品2種（200名）",
+      "slots": "300名",
+      "category": "美容・日用品",
+      "deadline": "2026-11-30 17:00",
+      "result_date": "2026-12-15",
+      "result_note": "12月15日以降に抽選・当選者のみ発送",
+      "status": "当落待ち",
+      "url": "https://www.acess.jp/cp/illust2611/"
+    },
+    {
+      "id": "2026-11-20-07",
+      "date": "2026-11-20",
+      "organizer": "朝日新聞Reライフ",
+      "prize": "「お城EXPO 2026」一般入城券 ペア（12/19-20 パシフィコ横浜）",
+      "slots": "50組100名",
+      "category": "テーマパーク・鑑賞",
+      "deadline": "2026-11-30",
+      "result_date": null,
+      "result_note": "当選者への発送をもって発表",
+      "status": "当落待ち",
+      "url": "https://www.asahi.com/relife/article/16995193"
+    },
+    {
+      "id": "2026-11-20-08",
+      "date": "2026-11-20",
+      "organizer": "JA共済連（JAグループ）",
+      "prize": "JA特産品 5,000円相当（第1期100名）／Wチャンス ニッポンエールご当地グミ10袋（150名）",
+      "category": "食品・お酒",
+      "deadline": "2026-11-30",
+      "result_date": null,
+      "result_note": "当選通知メールをもって発表",
+      "status": "当落待ち",
+      "url": "https://contents.ja-kyosai.or.jp/qa-cp.tokusan-gift/tajima/"
     }
   ]
 }
