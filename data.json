@@ -1,6 +1,6 @@
 {
   "site_title": "懸賞応募ダッシュボード",
-  "updated_at": "2026-11-20 21:55",
+  "updated_at": "2026-11-21 20:15",
   "next_run": "毎日 20:00",
   "items": [
     {
@@ -803,6 +803,57 @@
       "result_note": "当選通知メールをもって発表",
       "status": "当落待ち",
       "url": "https://contents.ja-kyosai.or.jp/qa-cp.tokusan-gift/tajima/"
+    },
+    {
+      "id": "2026-11-21-01",
+      "date": "2026-11-21",
+      "organizer": "109シネマズ（東急レクリエーション）",
+      "prize": "『コロニー／群体』SCREENX特別試写会 ご招待（12/15夕方・川崎ほか5館／500組1,000名）",
+      "category": "テーマパーク・鑑賞",
+      "deadline": "2026-12-03 23:59",
+      "result_note": "抽選・当選メールのみ（落選通知なし）",
+      "slots": "500組1,000名",
+      "status": "当落待ち",
+      "url": "https://109cinemas.net/events/colony/"
+    },
+    {
+      "id": "2026-11-21-02",
+      "date": "2026-11-21",
+      "organizer": "ユースキン製薬",
+      "prize": "ユースキン 4gサンプル 2個セット（10,000名）",
+      "category": "美容・日用品",
+      "deadline": "2026-11-30",
+      "ship_label": "2026年12月中旬（第3弾分・年内お届け予定）",
+      "result_note": "発送をもって発表",
+      "slots": "10,000名",
+      "status": "当落待ち",
+      "url": "https://teare.yuskin.co.jp/"
+    },
+    {
+      "id": "2026-11-21-03",
+      "date": "2026-11-21",
+      "organizer": "雪印ビーンスターク",
+      "prize": "「大人のための粉ミルク おなかにやさしい」スティック1箱（月10名）／お試しサンプル（月300名）",
+      "category": "食品・お酒",
+      "deadline": "2026-11-30",
+      "ship_label": "2026年12月中〜翌月（応募後翌月以内目安）",
+      "result_note": "毎月抽選・発送をもって発表",
+      "slots": "月310名",
+      "status": "当落待ち",
+      "url": "https://www.beanstalksnow.co.jp/news/8510/"
+    },
+    {
+      "id": "2026-11-21-04",
+      "date": "2026-11-21",
+      "organizer": "茨城をたべよう（茨城県くり生産者連絡協議会）",
+      "prize": "笠間の貯蔵栗 2Lサイズ 2kg（5名）",
+      "category": "食品・お酒",
+      "deadline": "2026-11-22",
+      "ship_label": "2026年12月中旬頃",
+      "result_note": "当選メール→返信で住所登録のうえ発送",
+      "slots": "5名",
+      "status": "当落待ち",
+      "url": "https://www.ibaraki-shokusai.net/present"
     }
   ]
 }
