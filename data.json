@@ -1,6 +1,6 @@
 {
   "site_title": "懸賞応募ダッシュボード",
-  "updated_at": "2026-11-21 20:15",
+  "updated_at": "2026-11-22 20:35",
   "next_run": "毎日 20:00",
   "items": [
     {
@@ -854,6 +854,54 @@
       "slots": "5名",
       "status": "当落待ち",
       "url": "https://www.ibaraki-shokusai.net/present"
+    },
+    {
+      "id": "2026-11-22-01",
+      "date": "2026-11-22",
+      "organizer": "JAあづみ（長野県農業協同組合中央会）",
+      "prize": "りんご「サンふじ」5kg（5名）",
+      "category": "食品・お酒",
+      "deadline": "2026-11-24",
+      "result_note": "当選者の発表は賞品の発送をもって代えさせていただきます",
+      "slots": "5名",
+      "status": "当落待ち",
+      "url": "https://oishii.iijan.or.jp/present"
+    },
+    {
+      "id": "2026-11-22-02",
+      "date": "2026-11-22",
+      "organizer": "でん六",
+      "prize": "40gポリッピーチョコ（20名）",
+      "category": "食品・お酒",
+      "deadline": "2026-11-25",
+      "result_note": "当選者の発表は賞品の発送をもって代えさせていただきます",
+      "slots": "20名",
+      "status": "当落待ち",
+      "url": "https://denroku.co.jp/present_info/"
+    },
+    {
+      "id": "2026-11-22-03",
+      "date": "2026-11-22",
+      "organizer": "奈良新聞デジタル（日進堂製菓）",
+      "prize": "「豆太鼓」（ピーナツ・黒豆）20枚詰め合わせ 3,800円相当（5名）",
+      "category": "食品・お酒",
+      "deadline": "2026-11-23 23:59",
+      "result_note": "当選者へのメールまたは商品の発送をもって発表",
+      "slots": "5名",
+      "status": "当落待ち",
+      "url": "https://www.nara-np.co.jp/present/present423.html"
+    },
+    {
+      "id": "2026-11-22-04",
+      "date": "2026-11-22",
+      "organizer": "1899プレゼントクラブ（龍名館）",
+      "prize": "ホテル1899東京 朝食付きペア宿泊券 スーペリアダブルB -ENGAWA-（1組2名）",
+      "category": "旅行・宿泊",
+      "deadline": "2026-11-27 10:00",
+      "result_note": "当選通知メールをもって発表",
+      "slots": "1組2名",
+      "status": "当落待ち",
+      "url": "https://1899.jp/1899park/"
     }
   ]
 }
