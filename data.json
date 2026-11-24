@@ -1,6 +1,6 @@
 {
   "site_title": "懸賞応募ダッシュボード",
-  "updated_at": "2026-11-22 20:35",
+  "updated_at": "2026-11-24 20:35",
   "next_run": "毎日 20:00",
   "items": [
     {
@@ -902,6 +902,82 @@
       "slots": "1組2名",
       "status": "当落待ち",
       "url": "https://1899.jp/1899park/"
+    },
+    {
+      "id": "2026-11-24-01",
+      "date": "2026-11-24",
+      "organizer": "絵本ナビ",
+      "prize": "第1弾クリスマスプレゼント：アラジン スチーム式加湿器／キュービックホットプレートほか全15品から2品選択＋Wチャンス Amazonギフトカード1万円分",
+      "category": "家電・生活",
+      "deadline": "2026-12-04",
+      "result_note": "発送をもって発表（第1弾は2026年12月中旬発送予定）",
+      "slots": "各品3〜5名ほか",
+      "status": "当落待ち",
+      "url": "https://questant.jp/q/8UH8AUVB",
+      "ship_label": "2026年12月中旬"
+    },
+    {
+      "id": "2026-11-24-02",
+      "date": "2026-11-24",
+      "organizer": "朝日新聞Reライフ（あたらし家）",
+      "prize": "快足インソールNEO（電子レンジで成形・3,980円税別／Mサイズ希望）",
+      "category": "生活雑貨",
+      "deadline": "2026-12-21",
+      "value": "3,980円",
+      "result_note": "発送をもって発表",
+      "slots": "5名",
+      "status": "当落待ち",
+      "url": "https://www.asahi.com/relife/article/16918666",
+      "ship_label": "2027年1月中旬までに発送予定"
+    },
+    {
+      "id": "2026-11-24-03",
+      "date": "2026-11-24",
+      "organizer": "幻冬舎（幻冬舎plus）",
+      "prize": "図書カードNEXT 2,000円分",
+      "category": "ギフト券・その他",
+      "deadline": "2026-12-09 23:59",
+      "result_note": "当選者へのメール連絡（2027年1月下旬ごろ案内）",
+      "slots": "20名",
+      "status": "当落待ち",
+      "url": "https://form.gentosha.co.jp/plus13th"
+    },
+    {
+      "id": "2026-11-24-04",
+      "date": "2026-11-24",
+      "organizer": "T&Dホールディングス",
+      "prize": "パナソニック オートクッカー ビストロ／ヤーマン リフトロジーSP 美顔器／BALMUDA The Toaster Pro／Nebula Capsule 3／Roomba Mini（各2名・計10名／年間大賞的中が条件）",
+      "category": "家電・生活",
+      "deadline": "2026-11-30 23:59",
+      "result_note": "発送をもって発表",
+      "slots": "10名（各2名）",
+      "status": "当落待ち",
+      "url": "https://www17.webcas.net/form/pub/singo-campaign2026/entry",
+      "ship_label": "2026年12月中旬〜2027年1月中旬"
+    },
+    {
+      "id": "2026-11-24-05",
+      "date": "2026-11-24",
+      "organizer": "JA全農にいがた",
+      "prize": "新潟県産ル レクチエ（西洋なし）2kg",
+      "category": "食品・お酒",
+      "deadline": "2026-12-06",
+      "result_note": "発送をもって発表",
+      "slots": "5名",
+      "status": "当落待ち",
+      "url": "https://form.ja-group.or.jp/ja0237/rurekuche2026"
+    },
+    {
+      "id": "2026-11-24-06",
+      "date": "2026-11-24",
+      "organizer": "モントワール（山星屋／お菓子と、わたし）",
+      "prize": "モントワールのお菓子12品詰合せ（ひとくち綱揚あられ・3種のサクポイMIX・おつまみ横丁7品・ASHITAMO大袋3品）",
+      "category": "食品・お酒",
+      "deadline": "2026-12-06 23:59",
+      "result_note": "発送をもって発表",
+      "slots": "20名",
+      "status": "当落待ち",
+      "url": "https://okashi-to-watashi.jp/post/2766"
     }
   ]
 }
