@@ -1,6 +1,6 @@
 {
   "site_title": "懸賞応募ダッシュボード",
-  "updated_at": "2026-11-25 21:00",
+  "updated_at": "2026-11-26 20:35",
   "next_run": "毎日 20:00",
   "items": [
     {
@@ -1040,6 +1040,54 @@
       "status": "当落待ち",
       "url": "https://cp-page.com/lp/irodorigohan-cp26/index.html",
       "ship_label": "2027年1月下旬頃"
+    },
+    {
+      "id": "2026-11-26-01",
+      "date": "2026-11-26",
+      "organizer": "茨城をたべよう（茨城県販売戦略課／蔵出し焼き芋かいつか）",
+      "prize": "冷凍 蔵焼き芋 紅天使 1kg（500g×2袋）",
+      "category": "食品・お酒",
+      "deadline": "2026-12-06",
+      "result_note": "当選メール（@nissenmedix.co.jp）→必要事項を返送のうえ発送",
+      "slots": "3名",
+      "status": "当落待ち",
+      "url": "https://www.ibaraki-shokusai.net/present"
+    },
+    {
+      "id": "2026-11-26-02",
+      "date": "2026-11-26",
+      "organizer": "博多和牛販売促進協議会（博多和牛フェア事務局）",
+      "prize": "博多和牛のステーキ",
+      "category": "食品・お酒",
+      "deadline": "2026-12-31",
+      "result_note": "当選者にEメールで連絡（2027年1月下旬以降を予定）",
+      "slots": "20名",
+      "status": "当落待ち",
+      "url": "https://hakatawagyudaro.net/"
+    },
+    {
+      "id": "2026-11-26-03",
+      "date": "2026-11-26",
+      "organizer": "JA伊万里",
+      "prize": "キウイフルーツ「ヘイワード」",
+      "category": "食品・お酒",
+      "deadline": "2026-11-30",
+      "result_note": "当選者発表はJA伊万里ホームページのプレゼントコーナーにて",
+      "slots": "3名",
+      "status": "当落待ち",
+      "url": "https://jaimari.saga-ja.jp/present/"
+    },
+    {
+      "id": "2026-11-26-04",
+      "date": "2026-11-26",
+      "organizer": "エフエム江戸川（FMえどがわ）",
+      "prize": "国立劇場 令和8年12月文楽公演 第三部「曽根崎心中」ペアご招待券（12月18日19時開演・東京芸術劇場を希望）",
+      "category": "テーマパーク・鑑賞",
+      "deadline": "2026-11-30",
+      "result_note": "当選者の発表は招待状の発送をもって代えさせていただきます",
+      "slots": "2組4名",
+      "status": "当落待ち",
+      "url": "https://www.fm843.co.jp/2026/11/10/bunraku/"
     }
   ]
 }
