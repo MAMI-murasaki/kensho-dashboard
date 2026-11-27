@@ -1,6 +1,6 @@
 {
   "site_title": "懸賞応募ダッシュボード",
-  "updated_at": "2026-11-26 20:35",
+  "updated_at": "2026-11-27 20:20",
   "next_run": "毎日 20:00",
   "items": [
     {
@@ -1088,6 +1088,103 @@
       "slots": "2組4名",
       "status": "当落待ち",
       "url": "https://www.fm843.co.jp/2026/11/10/bunraku/"
+    },
+    {
+      "id": "2026-11-27-01",
+      "date": "2026-11-27",
+      "organizer": "CREA WEB（日欧商事 ITALIAKARA）",
+      "prize": "アニマルラベルBOX（イタリアワインセット・21,500円）",
+      "category": "食品・お酒",
+      "deadline": "2026-12-27 23:59",
+      "result_note": "当選者の発表は発送をもって代えさせていただきます",
+      "slots": "1名",
+      "status": "当落待ち",
+      "url": "https://crea.bunshun.jp/articles/-/60822"
+    },
+    {
+      "id": "2026-11-27-02",
+      "date": "2026-11-27",
+      "organizer": "マリンフード（12月のプレゼント）",
+      "prize": "北海道 The プレミアムケーキ（フロマージュブリュレ）1箱",
+      "category": "食品・お酒",
+      "deadline": "2026-12-24",
+      "result_date": "2027-01-05",
+      "result_note": "抽選後、当選者の都道府県とイニシャルをHP掲載／賞品の発送をもって発表",
+      "slots": "300名",
+      "status": "当落待ち",
+      "url": "https://www.marinfood.co.jp/present/"
+    },
+    {
+      "id": "2026-11-27-03",
+      "date": "2026-11-27",
+      "organizer": "BS朝日「Fresh Faces 〜アタラシイヒト〜」",
+      "prize": "キユーピー 深煎りごまドレッシング にんにく味噌味 3本",
+      "category": "食品・お酒",
+      "deadline": "2026-11-30 23:59",
+      "result_note": "当選者の発表は賞品の発送をもって代えさせていただきます",
+      "slots": "12名",
+      "status": "当落待ち",
+      "url": "https://www.bs-asahi.co.jp/fresh-faces/present/20261101/"
+    },
+    {
+      "id": "2026-11-27-04",
+      "date": "2026-11-27",
+      "organizer": "BS朝日「そこに山があるから」",
+      "prize": "マムート エクスカーション ミッドレイヤー ジャケット（Mサイズ）",
+      "category": "生活雑貨",
+      "deadline": "2026-11-30 23:59",
+      "result_note": "当選者の発表は賞品の発送をもって代えさせていただきます",
+      "slots": "5名",
+      "status": "当落待ち",
+      "url": "https://www.bs-asahi.co.jp/sokoyama/present/20261101/"
+    },
+    {
+      "id": "2026-11-27-05",
+      "date": "2026-11-27",
+      "organizer": "長野県農業協同組合中央会（JA大北 ええっこの里）",
+      "prize": "お米加工品詰め合わせセット（米粉1kg・凍り餅・米粉うどん・らーめん・パスタ・ご飯）",
+      "category": "食品・お酒",
+      "deadline": "2026-12-08",
+      "result_note": "当Webマガジン次号の記事内で都道府県・市町村名とイニシャルを公開",
+      "slots": "5名",
+      "status": "当落待ち",
+      "url": "https://oishii.iijan.or.jp/present"
+    },
+    {
+      "id": "2026-11-27-06",
+      "date": "2026-11-27",
+      "organizer": "NST新潟総合テレビ「ごるビバ」",
+      "prize": "佐渡海洋深層水 24本入り",
+      "category": "食品・お酒",
+      "deadline": "2026-12-03 12:00",
+      "result_note": "当選者の発表は賞品の発送をもって代えさせていただきます",
+      "slots": "2名",
+      "status": "当落待ち",
+      "url": "https://www.nsttv.com/present/golviva202611.html"
+    },
+    {
+      "id": "2026-11-27-07",
+      "date": "2026-11-27",
+      "organizer": "福井テレビ「日本全国 福むすび」",
+      "prize": "大野町特産の富有柿",
+      "category": "食品・お酒",
+      "deadline": "2026-11-28",
+      "result_note": "当選者の発表は賞品の発送をもって代えさせていただきます",
+      "slots": "3名",
+      "status": "当落待ち",
+      "url": "https://www.fukui-tv.co.jp/?post_type=present&p=189161"
+    },
+    {
+      "id": "2026-11-27-08",
+      "date": "2026-11-27",
+      "organizer": "福井テレビ（第29回チャレンジカップ）",
+      "prize": "特製QUOカード 500円分",
+      "category": "ギフト券・その他",
+      "deadline": "2026-11-30",
+      "result_note": "当選者の発表は賞品の発送をもって代えさせていただきます",
+      "slots": "10名",
+      "status": "当落待ち",
+      "url": "https://www.fukui-tv.co.jp/?post_type=present&p=203628"
     }
   ]
 }
