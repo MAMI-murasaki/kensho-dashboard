@@ -1,6 +1,6 @@
 {
   "site_title": "懸賞応募ダッシュボード",
-  "updated_at": "2026-11-27 20:20",
+  "updated_at": "2026-11-28 20:25",
   "next_run": "毎日 20:00",
   "items": [
     {
@@ -1185,6 +1185,139 @@
       "slots": "10名",
       "status": "当落待ち",
       "url": "https://www.fukui-tv.co.jp/?post_type=present&p=203628"
+    },
+    {
+      "id": "2026-11-28-01",
+      "date": "2026-11-28",
+      "organizer": "日本生活協同組合連合会（コープ・デリシェ）",
+      "prize": "ヘルシーコープ コープ商品詰め合わせ（コープヌードル・たまごスープ・豆乳飲料ほか6品）",
+      "category": "食品・お酒",
+      "deadline": "2026-12-20",
+      "ship_label": "2027年1月下旬予定",
+      "result_note": "当選者の発表は賞品の発送をもって代えさせていただきます（クイズ正解者から200名）",
+      "slots": "200名",
+      "status": "当落待ち",
+      "url": "https://goods.jccu.coop/cp/hccp2026/"
+    },
+    {
+      "id": "2026-11-28-02",
+      "date": "2026-11-28",
+      "organizer": "青森県（AOMORI ONE ロゴマーク誕生記念）",
+      "prize": "A賞 あおもり和牛 極上すき焼き用牛肉／B賞 大間産天然本マグロ詰合せ／C賞 青天の霹靂5kgセット／D賞 青森県産品詰合せ",
+      "category": "食品・お酒",
+      "deadline": "2026-11-30",
+      "result_note": "当選者の発表は賞品の発送をもって代えさせていただきます（計20名・受付完了メールなし）",
+      "slots": "20名",
+      "status": "当落待ち",
+      "url": "https://www.pref.aomori.lg.jp/soshiki/kanko/hanbai/kensanhin_logo.html"
+    },
+    {
+      "id": "2026-11-28-03",
+      "date": "2026-11-28",
+      "organizer": "JA東京アグリパーク 第28回プレゼント企画",
+      "prize": "東京産イチゴ",
+      "category": "食品・お酒",
+      "deadline": "2027-01-31",
+      "result_note": "当選メール→必要事項を返送（1週間以内）→提供元から発送",
+      "slots": "10名",
+      "status": "当落待ち",
+      "url": "https://mailmagazine.agripark.tokyo/present/2026/028/"
+    },
+    {
+      "id": "2026-11-28-04",
+      "date": "2026-11-28",
+      "organizer": "日本ハムマーケティング（日本ハムふるさと納税）",
+      "prize": "もちもち皮の にんにく丸餃子（20個）×4袋",
+      "category": "食品・お酒",
+      "deadline": "2026-11-30",
+      "result_note": "当選者にメール連絡。当選後は商品レビューの投稿が条件",
+      "slots": "5名",
+      "status": "当落待ち",
+      "url": "https://www.nipponham-furusato.jp/cp/202611_001"
+    },
+    {
+      "id": "2026-11-28-05",
+      "date": "2026-11-28",
+      "organizer": "テレビ高知（KUTV）映画『VIVANT』",
+      "prize": "映画『VIVANT』オリジナルグッズセット",
+      "category": "テーマパーク・鑑賞",
+      "deadline": "2026-12-03 23:59",
+      "result_note": "当選者の発表は賞品の発送をもって代えさせていただきます",
+      "slots": "5名",
+      "status": "当落待ち",
+      "url": "https://www.kutv.co.jp/present/present-2816899/"
+    },
+    {
+      "id": "2026-11-28-06",
+      "date": "2026-11-28",
+      "organizer": "テレビ高知（KUTV）「来てみいや！須崎」",
+      "prize": "美粕祇万アジ4,500円分 ほか須崎の特産品",
+      "category": "食品・お酒",
+      "deadline": "2026-12-04",
+      "result_note": "当選者の発表は賞品の発送をもって代えさせていただきます",
+      "slots": "40名",
+      "status": "当落待ち",
+      "url": "https://www.kutv.co.jp/present/"
+    },
+    {
+      "id": "2026-11-28-07",
+      "date": "2026-11-28",
+      "organizer": "テレビ高知（KUTV）おトク屋T★V！",
+      "prize": "AGF「クノール」プレミアムスープギフト",
+      "category": "食品・お酒",
+      "deadline": "2026-11-30",
+      "result_note": "当選者の発表は賞品の発送をもって代えさせていただきます",
+      "slots": "5名",
+      "status": "当落待ち",
+      "url": "https://www.kutv.co.jp/present/"
+    },
+    {
+      "id": "2026-11-28-08",
+      "date": "2026-11-28",
+      "organizer": "テレビ高知（KUTV）おトク屋T★V！",
+      "prize": "「ブレンディ」スティックウィンターカフェオレコレクション",
+      "category": "食品・お酒",
+      "deadline": "2026-11-30",
+      "result_note": "当選者の発表は賞品の発送をもって代えさせていただきます",
+      "slots": "5名",
+      "status": "当落待ち",
+      "url": "https://www.kutv.co.jp/present/"
+    },
+    {
+      "id": "2026-11-28-09",
+      "date": "2026-11-28",
+      "organizer": "テレビ高知（KUTV）おトク屋T★V！",
+      "prize": "キリン 一番搾り生ビールセット",
+      "category": "食品・お酒",
+      "deadline": "2026-11-30",
+      "result_note": "当選者の発表は賞品の発送をもって代えさせていただきます",
+      "slots": "5名",
+      "status": "当落待ち",
+      "url": "https://www.kutv.co.jp/present/"
+    },
+    {
+      "id": "2026-11-28-10",
+      "date": "2026-11-28",
+      "organizer": "有限会社ミツキ（婦人服・雑貨）",
+      "prize": "COSORI LITE 2L ミニノンフライヤー",
+      "category": "家電・生活",
+      "deadline": "2026-11-30",
+      "result_note": "当選者の発表は賞品の発送をもって代えさせていただきます",
+      "slots": "1名",
+      "status": "当落待ち",
+      "url": "https://mitsuki.info/present.html"
+    },
+    {
+      "id": "2026-11-28-11",
+      "date": "2026-11-28",
+      "organizer": "下野新聞社（とちぎJAプラザ）",
+      "prize": "加藤農園のリンゴ5kg（または栃木県産無洗米 とちぎの星5kg）",
+      "category": "食品・お酒",
+      "deadline": "2026-11-28",
+      "result_note": "当選者の発表は賞品の発送をもって代えさせていただきます",
+      "slots": "リンゴ10名／無洗米5名",
+      "status": "当落待ち",
+      "url": "https://www.shimotsuke.co.jp/list/secure/lead?code=WD-2026-0043"
     }
   ]
 }
