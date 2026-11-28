@@ -1,6 +1,6 @@
 {
   "site_title": "懸賞応募ダッシュボード",
-  "updated_at": "2026-11-28 20:25",
+  "updated_at": "2026-11-28 20:38",
   "next_run": "毎日 20:00",
   "items": [
     {
@@ -1318,6 +1318,18 @@
       "slots": "リンゴ10名／無洗米5名",
       "status": "当落待ち",
       "url": "https://www.shimotsuke.co.jp/list/secure/lead?code=WD-2026-0043"
+    },
+    {
+      "id": "2026-11-28-12",
+      "date": "2026-11-28",
+      "organizer": "テレビ高知（KUTV）おトク屋T★V！",
+      "prize": "サントリー ザ・プレミアム・モルツ ファミリーセット",
+      "category": "食品・お酒",
+      "deadline": "2026-11-30",
+      "result_note": "当選者の発表は賞品の発送をもって代えさせていただきます",
+      "slots": "5名",
+      "status": "当落待ち",
+      "url": "https://www.kutv.co.jp/present/"
     }
   ]
 }
